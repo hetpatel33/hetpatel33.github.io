@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6097e32-e0af-4847-a55f-d46a9bce0a18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/profilepic.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/profilepic.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="240" column="129" selection-start-line="240" selection-start-column="129" selection-end-line="240" selection-end-column="129" />
+            <state relative-caret-position="501">
+              <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#use#0;n#clipPath#0;n#g#0;n#g#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -153,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2820">
-              <caret line="188" selection-start-line="188" selection-end-line="188" />
+            <state relative-caret-position="183">
+              <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -177,6 +178,9 @@
       <find>current</find>
       <find>active</find>
       <find>class</find>
+      <find>102px</find>
+      <find>96px</find>
+      <find>72px</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,8 +191,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/animate.js" />
         <option value="$PROJECT_DIR$/js/init.js" />
-        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
       </list>
     </option>
   </component>
@@ -252,7 +256,7 @@
     <frame x="0" y="23" width="1567" height="1097" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967659" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +266,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32935324" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,20 +327,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2820">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/profilepic.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="240" column="129" selection-start-line="240" selection-start-column="129" selection-end-line="240" selection-end-column="129" />
+        <state relative-caret-position="501">
+          <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#use#0;n#clipPath#0;n#g#0;n#g#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -410,6 +407,13 @@
             <element signature="n#style#0;n#polygon#6;n#g#7;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#polygon#7;n#g#7;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
         </state>
       </provider>
     </entry>

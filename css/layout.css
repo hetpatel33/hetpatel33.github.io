@@ -30,14 +30,21 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
-   min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+}
+
+.hero-title {
+    font: 70px/1.1em 'opensans-bold', sans-serif;
+    fill: #fff;
+    letter-spacing: -2px;
+    margin: 0 auto 18px auto;
+}
+
+.hero-sub-title {
+    font: 22px/30px 'opensans-bold', sans-serif;
+    fill: #fff;
 }
 
 /* vertically center banner section */
@@ -179,7 +186,6 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
 
 
 /* ------------------------------------------------------------------ */
@@ -630,7 +636,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
+	font-family: 'opensans-semibold', sans-serif;
 	color: #D8D8D8;
 }
 
@@ -654,7 +660,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;

@@ -65,10 +65,8 @@
 /* equal to the browser height.
 ------------------------------------------------------ */
 
-   $('header').css({ 'height': $(window).height() });
    $(window).on('resize', function() {
 
-        $('header').css({ 'height': $(window).height() });
         $('body').css({ 'width': $(window).width() })
    });
 
@@ -79,7 +77,7 @@
 
    $(window).on('scroll', function() {
 
-		var h = $('header').height();
+		var h = $('svg').height();
 		var y = $(window).scrollTop();
       var nav = $('#nav-wrap');
 
@@ -161,7 +159,7 @@
                $('#image-loader').fadeOut();
                $('#message-warning').hide();
                $('#contactForm').fadeOut();
-               $('#message-success').fadeIn();   
+               $('#message-success').fadeIn();
             }
             // There was an error
             else {
